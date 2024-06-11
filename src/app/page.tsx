@@ -16,7 +16,7 @@ async function Page() {
   console.log(response);
 
   return (
-    <main className="min-h-screen bg-black justify-center">
+    <main className="justify-center min-h-screen bg-black justify-center">
       <Button />
     </main>
   );
